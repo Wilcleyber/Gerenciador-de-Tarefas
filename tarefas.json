@@ -1,0 +1,23 @@
+[
+    {
+        "descricao": "Exemplo de Tarefa Diaria",
+        "concluida": false,
+        "data_hora": "07/05/2025 09:00",
+        "frequencia": "diária",
+        "lembrete": true
+    },
+    {
+        "descricao": "Exemplo de Tarefa Semanal",
+        "concluida": false,
+        "data_hora": "13/05/2025 09:30",
+        "frequencia": "semanal",
+        "lembrete": true
+    },
+    {
+        "descricao": "Exemplo de Tarefa Anual",
+        "concluida": false,
+        "data_hora": "02/01/2026 10:00",
+        "frequencia": "anual",
+        "lembrete": true
+    }
+]
