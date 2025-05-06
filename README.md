@@ -24,5 +24,5 @@ Este é meu primeiro de muitos projetos, e um gerenciador de tarefas com interfa
 1. Instale o Python 3.10 ou superior.
 2. Clone este repositório:
 ```bash
-git clone https://github.com/Wilcleyber/Gerenciador-de-Tarefas
+git clone https://github.com/Wilcleyber/Gerenciador-de-Tarefas.git
 
